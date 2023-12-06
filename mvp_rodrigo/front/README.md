@@ -11,7 +11,7 @@ Como executar:
 
 # Meu front
 Foi implementado um front contendo os atributos dos alunos como: Gender, Race/ethnicity, Parental level of education, Lunch, Test preparation course, Reading score, Writing score. 
-Após inserir estes atributos no nosso front e apertar "analisar dados" teremos o outcome referente ao Math score dos alunos através do modelo treinado.
+Após inserir estes atributos no nosso front e apertar "analisar dados" e atualizar a página teremos o outcome referente ao Math score dos alunos através do modelo treinado.
 Para excluir qualquer linha da tabela basta clicar no "x" da tabela.
 
 Como executar:
